@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WBLibrary_Example' do
+  pod 'WBLibrary', :path => '../'
+
+  target 'WBLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
