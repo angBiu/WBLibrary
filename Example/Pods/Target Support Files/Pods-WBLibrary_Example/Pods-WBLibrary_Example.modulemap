@@ -1,0 +1,6 @@
+framework module Pods_WBLibrary_Example {
+  umbrella header "Pods-WBLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

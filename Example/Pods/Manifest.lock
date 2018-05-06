@@ -1,0 +1,16 @@
+PODS:
+  - WBLibrary (0.1.0)
+
+DEPENDENCIES:
+  - WBLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  WBLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WBLibrary: b44485571599e185ece0e18a98d47d620b61cd58
+
+PODFILE CHECKSUM: ff5c451b8ba7236a65d837b975e2480b04710d66
+
+COCOAPODS: 1.5.0
